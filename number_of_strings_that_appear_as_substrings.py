@@ -6,5 +6,5 @@ class Solution:
                 subCount += 1 
         return subCount
 sobj = Solution()
-word = "abc"
+word = "abce"
 print(sobj.numOfStrings(["a","abc","bc","d"], word))
